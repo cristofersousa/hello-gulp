@@ -3,7 +3,9 @@
 
 1. Instale as dependências com NodeJS:
 
-> $ npm install gulp tiny-lr gulp-livereload gulp-concat gulp-changed gulp-watch gulp-plumber gulp-usemin gulp-autoprefixer gulp-csslint gulp-sass gulp-minify-css gulp-uglify gulp-jshint gulp-imagemin --save-dev
+> 
+- npm install 
+- gulp tiny-lr gulp-livereload gulp-concat gulp-changed gulp-watch gulp-plumber gulp-usemin gulp-autoprefixer gulp-csslint gulp-sass gulp-minify-css gulp-uglify gulp-jshint gulp-imagemin --save-dev
 
 2. Coloque o arquivo gulpfile.js na pasta do projeto
 
